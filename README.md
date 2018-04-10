@@ -1,5 +1,5 @@
 # ♡ COLOR PICKER ♡
-![2](https://user-images.githubusercontent.com/32860297/38585165-84427e6a-3cde-11e8-9c8c-ccafcecbccf8.jpg)
+![color](https://user-images.githubusercontent.com/32860297/38586277-cf14c5e8-3ce2-11e8-8aaa-51662ba065a8.jpg)
 
 ## Objetivo
 

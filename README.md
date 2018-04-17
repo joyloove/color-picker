@@ -1,4 +1,4 @@
-# ♡ COLOR PICKER ♡
+#  COLOR PICKER 
 ![color](https://user-images.githubusercontent.com/32860297/38586277-cf14c5e8-3ce2-11e8-8aaa-51662ba065a8.jpg)
 
 ## Objetivo
